@@ -7,5 +7,5 @@ serverAddress = "0.0.0.0"
 serverPort = 10000
 
 [theme]
-primaryColor = '#F63366'
-backgroundColor = '#FFFFFF'
+primaryColor = '#800080' 
+backgroundColor = '#FFFF00'
